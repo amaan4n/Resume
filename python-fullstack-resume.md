@@ -7,14 +7,14 @@ Phone: +91 6367441883
 Location: Hyderabad, Telangana
 
 ## COURSE/QUALIFICATION
-| Qualification | Board/University | Year | Percentage |
+| Qualification | Board/University | Year | Percentage/CGPA |
 |--------------|------------------|------|------------|
 | BCA | Osmania University | 2025 | 9.00 CGPA |
 | 12th | RBSE/Govt. senior secondary school | 2021 | 87% |
 
 ## IT BACKGROUND
 - Training/Certification: Python Full Stack Development (In Progress)
-- Duration: 6 Months (expected
+- Duration: 6 Months (expected)
 - Institute: Qspiders Dilsukhnagar
 
 ## TECHNICAL SKILLS
