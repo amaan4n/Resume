@@ -1,21 +1,21 @@
 # PYTHON FULL STACK DEVELOPER
 
 ## PERSONAL DETAILS
-Name: [Your Name]  
-Email: [Your Email]  
-Phone: [Your Phone]  
-Location: [City, State]
+Name: Puneet Khatri  
+Email: [Khatripuneet2000@gmail.com](mailto:Khatripuneet2000@gmail.com)
+Phone: +91 6367441883
+Location: Hyderabad, Telangana
 
 ## COURSE/QUALIFICATION
 | Qualification | Board/University | Year | Percentage |
 |--------------|------------------|------|------------|
-| [Highest Qualification] | [University Name] | [Year] | [%] |
-| [Other Qualification] | [Board/University] | [Year] | [%] |
+| BCA | Osmania University | 2025 | 9.00 CGPA |
+| 12th | RBSE/Govt. senior secondary school | 2021 | 87% |
 
 ## IT BACKGROUND
 - Training/Certification: Python Full Stack Development (In Progress)
-- Duration: [Specify Duration]
-- Institute: [Institute Name]
+- Duration: 6 Months (expected
+- Institute: Qspiders Dilsukhnagar
 
 ## TECHNICAL SKILLS
 
@@ -40,7 +40,7 @@ Location: [City, State]
 - Worked with Joins and Sub-queries
 
 ➤ DEVELOPMENT TOOLS & ENVIRONMENT
-- Experience with Python IDE [specify IDE]
+- Experience with Python IDLE, PyCharm, VS code
 - Good knowledge in Command Line Interface
 - Basic knowledge in File Handling
 - Experience in Code Debugging
@@ -54,20 +54,16 @@ Location: [City, State]
 - Aptitude Training
 
 ## PROJECTS
-1. Python Basic Projects
-   - [Project Name 1]
-     - [Brief description]
-     - [Technologies used]
-   - [Project Name 2]
-     - [Brief description]
-     - [Technologies used]
+1. Python Projects
+   - Handwritten Digit Recognition System
+     - Built an interactive application using that allows users to draw digits and receive real-time recognition.
+     - Pygame
+   - Automated College Attendance System
+     - Developed Efficient Attendance Management Solution for Colleges.
+     - Facial recognition and OpenCv
 
-2. Database Projects
-   - [SQL Project Name]
-     - [Brief description]
-     - [Key SQL concepts implemented]
 
 ## PERSONAL INFORMATION
-- Date of Birth: [Your DOB]
-- Languages Known: [List languages]
-- Address: [Your address]
+- Date of Birth: 08/11/2004
+- Languages Known: Marwadi, Hindi, English
+- Address: Hyderabad
