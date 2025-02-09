@@ -4,7 +4,12 @@
 Name: Puneet Khatri  
 Email: [Khatripuneet2000@gmail.com](mailto:Khatripuneet2000@gmail.com)  
 Phone: [+916367441883](tel:+916367441883)  
+[LinkedIn](https://www.linkedin.com/in/punit-khatri-69468b212/) | [GitHub](https://github.com/puneet-khatri/)
 Location: Hyderabad, Telangana
+
+## CAREER OBJECTIVE
+---------------
+Aspiring Python Full Stack Developer with foundational knowledge in Python programming and SQL, currently expanding expertise in web development technologies. Seeking opportunities to apply and grow technical skills in a professional environment.
 
 ## COURSE/QUALIFICATION
 | Qualification | Board/University | Year | Percentage/CGPA |
@@ -62,8 +67,29 @@ Location: Hyderabad, Telangana
      - Developed Efficient Attendance Management Solution for Colleges.
      - Facial recognition and OpenCv
 
+CERTIFICATES
+-----------
+• Certified Python (Basic) Skill, HackerRank (April 2024)
+
+ACHIEVEMENTS
+-----------
+• Consistent Top Performer in BCA (CGPA: 9.07)
+  - Secured First Position (Semester 1: CGPA 9.69)
+• National IT Exhibition Winner
+  - 1st Place - Technocrats Elite 5.0 (2023)
+  - Consolation Prize - Technocrats Elite 6.0 (2024)
+• Active Participation: Appreciation Letter (Swecha - ChandamamaKathalu Hackathon - 2023)
+• Top Innovator: "Top 10 Ideas & Most Promising Idea Recognition" (IBC media Ideathon - 2022)
+• Blockchain Enthusiast: Awarded 500 Phala Tokens (₹14K) for Smart Contract Challenge (2022)
 
 ## PERSONAL INFORMATION
 - Date of Birth: 08/11/2004
 - Languages Known: Marwadi, Hindi, English
 - Address: Hyderabad
+
+Declaration
+----------
+I hereby declare that the information furnished above is true to the best of my knowledge.
+
+Date: 09/02/2025                                                    Puneet khatri
+Place: Hyderabad                                                 
