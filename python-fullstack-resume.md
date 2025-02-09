@@ -2,7 +2,7 @@
 
 ## PERSONAL DETAILS
 Name: Puneet Khatri  
-Email: [Khatripuneet2000@gmail.com](mailto:Khatripuneet2000@gmail.com) 
+Email: [Khatripuneet2000@gmail.com](mailto:Khatripuneet2000@gmail.com)  
 Phone: +91 6367441883
 Location: Hyderabad, Telangana
 
