@@ -25,24 +25,27 @@ Aspiring Python Full Stack Developer with foundational knowledge in Python progr
 ## TECHNICAL SKILLS
 
 ➤ Python Core
-- Strong knowledge in Python fundamentals
-- Extensive knowledge in Data Types (Lists, Tuples, Dictionaries, Sets)
-- Extensive knowledge in Control Flow and Operators
-- Very good knowledge in Conditional Statements (if, elif, else)
-- Good knowledge in Loops (while loop)
-- Thorough knowledge in Python Methods
-- Strong understanding of Basic Input/Output
-- Expertise in Python Variables and Operators
+- Strong knowledge in Python fundamentals.
+- Extensive knowledge in Data Types (Lists, Tuples, Dictionaries, Sets).
+- Extensive knowledge in Control Flow and Operators.
+- Very good knowledge in Conditional Statements (if, elif, else, match case).
+- Good knowledge in Loops (while loop).
+- Thorough knowledge in Python Methods.
+- Strong understanding of Basic Input/Output.
+- Expertise in Python Variables and Operators.
 
 ➤ DATABASE (SQL)
-- Extensive knowledge in SQL fundamentals 
-- Excellent at performing CRUD operations
-- Strong knowledge in DDL and DML commands
-- Worked with Table Creation and Constraints
-- Very good knowledge in Primary Key, Foreign Key concepts
-- Experience in writing Basic Queries
-- Knowledge on SELECT, WHERE, ORDER BY clauses
-- Worked with Joins and Sub-queries
+- Extensive knowledge in SQL fundamentals. 
+- Excellent at performing CRUD operations on any RDBMS.
+- Strong knowledge in DDL,DML,TCL,DCL,DQL commands.
+- Worked with Table Creation and Constraints.
+- Very good knowledge in Primary Key, Foreign Key concepts.
+- Experience in writing Basic Queries.
+- Knowledge on SELECT, WHERE, ORDER BY clauses.
+- Worked with Joins and Sub-queries.
+- Worked on topics like Psuedo Columns.
+- Worked and practiced queries on ORACLE SQL *plus.
+- Written around 400-500 queries on above topics.
 
 ➤ DEVELOPMENT TOOLS & ENVIRONMENT
 - Experience with Python IDLE, PyCharm, VS code
@@ -91,5 +94,5 @@ Declaration
 ----------
 I hereby declare that the information furnished above is true to the best of my knowledge.
 
-Date: 09/02/2025                                                    Puneet khatri
+Date: 09/02/2025 |                                                   Puneet khatri
 Place: Hyderabad                                                 
