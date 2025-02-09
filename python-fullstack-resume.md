@@ -69,18 +69,18 @@ Aspiring Python Full Stack Developer with foundational knowledge in Python progr
 
 CERTIFICATES
 -----------
-• Certified Python (Basic) Skill, HackerRank (April 2024)
+- Certified Python (Basic) Skill, HackerRank (April 2024)
 
 ACHIEVEMENTS
 -----------
-• Consistent Top Performer in BCA (CGPA: 9.07)
+- Consistent Top Performer in BCA (CGPA: 9.07)
   - Secured First Position (Semester 1: CGPA 9.69)
-• National IT Exhibition Winner
+- National IT Exhibition Winner
   - 1st Place - Technocrats Elite 5.0 (2023)
   - Consolation Prize - Technocrats Elite 6.0 (2024)
-• Active Participation: Appreciation Letter (Swecha - ChandamamaKathalu Hackathon - 2023)
-• Top Innovator: "Top 10 Ideas & Most Promising Idea Recognition" (IBC media Ideathon - 2022)
-• Blockchain Enthusiast: Awarded 500 Phala Tokens (₹14K) for Smart Contract Challenge (2022)
+- Active Participation: Appreciation Letter (Swecha - ChandamamaKathalu Hackathon - 2023)
+- Top Innovator: "Top 10 Ideas & Most Promising Idea Recognition" (IBC media Ideathon - 2022)
+- Blockchain Enthusiast: Awarded 500 Phala Tokens (₹14K) for Smart Contract Challenge (2022)
 
 ## PERSONAL INFORMATION
 - Date of Birth: 08/11/2004
