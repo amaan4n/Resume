@@ -1,11 +1,11 @@
-# PYTHON FULL STACK DEVELOPER
+#  FULL STACK DEVELOPER
 
 ## PERSONAL DETAILS
-Name: Puneet Khatri  
-Email: [Khatripuneet2000@gmail.com](mailto:Khatripuneet2000@gmail.com)  
-Phone: [+916367441883](tel:+916367441883)  
+Name: Syed Amaan Mehmoodi  
+Email: [syedamaanmehmoodi26@gmail.com](mailto: syedamaanmehmoodi26@gmail.com)  
+Phone: [+918074841129](tel:+918074841129)  
 Location: Hyderabad, Telangana  
-[LinkedIn](https://www.linkedin.com/in/punit-khatri-69468b212/) | [GitHub](https://github.com/puneet-khatri/)  
+[LinkedIn](https://www.linkedin.com/in/syed-amaan-mehmoodi-690683271) | [GitHub](https://github.com/amaan4n/)  
 
 ## CAREER OBJECTIVE
 
@@ -14,85 +14,57 @@ Aspiring Python Full Stack Developer with foundational knowledge in Python progr
 ## COURSE/QUALIFICATION
 | Qualification | Board/University | Year | Percentage/CGPA |
 |--------------|------------------|------|------------|
-| BCA | Osmania University | 2025 | 9.00 CGPA |
-| 12th | RBSE/Govt. senior secondary school | 2021 | 87% |
-
-## IT BACKGROUND
-- Training/Certification: Python Full Stack Development (In Progress)
-- Duration: 6 Months (expected)
-- Institute: Qspiders Dilsukhnagar
+| BCA | Osmania University | 2025 | 8.50 CGPA |
+| 12th | Success The Junior College  | 2022 | 77%   
+| 10th | Success The  College  | 2020| 10 GPA   
 
 ## TECHNICAL SKILLS
+- Html5
+- Css3
+- JavaScript
+- Core Java
+- python
+- Ms Office
 
-➤ Python Core
-- Strong knowledge in Python fundamentals.
-- Extensive knowledge in Data Types (Lists, Tuples, Dictionaries, Sets).
-- Extensive knowledge in Control Flow and Operators.
-- Very good knowledge in Conditional Statements (if, elif, else, match case).
-- Good knowledge in Loops (while loop).
-- Thorough knowledge in Python Methods.
-- Strong understanding of Basic Input/Output.
-- Expertise in Python Variables and Operators.
-
-➤ DATABASE (SQL)
-- Extensive knowledge in SQL fundamentals. 
-- Excellent at performing CRUD operations on any RDBMS.
-- Strong knowledge in DDL,DML,TCL,DCL,DQL commands.
-- Worked with Table Creation and Constraints.
-- Very good knowledge in Primary Key, Foreign Key concepts.
-- Experience in writing Basic Queries.
-- Knowledge on SELECT, WHERE, ORDER BY clauses.
-- Worked with Joins and Sub-queries.
-- Worked on topics like Psuedo Columns.
-- Worked and practiced queries on ORACLE SQL *plus.
-- Written around 400-500 queries on above topics.
 
 ➤ DEVELOPMENT TOOLS & ENVIRONMENT
 - Experience with Python IDLE, PyCharm, VS code
 - Good knowledge in Command Line Interface
-- Basic knowledge in File Handling
-- Experience in Code Debugging
 
 ➤ LEARNING PATH (In Progress)
-- HTML5 & CSS3
 - JavaScript Fundamentals
-- React.js Components and State Management
-- Advanced SQL Operations
-- PL/SQL Development
+- Machine Learning 
 - Aptitude Training
 
 ## PROJECTS
 1. Python Projects
-   - Handwritten Digit Recognition System
-     - Built an interactive application using that allows users to draw digits and receive real-time recognition.
-     - Pygame
-   - Automated College Attendance System
-     - Developed Efficient Attendance Management Solution for Colleges.
-     - Facial recognition and OpenCv
+   - Detecting Spam Email With Machine Learning Optimized With Bio- Inspired Metaheuristic Algorithms.
 
 CERTIFICATES
 -----------
-- Certified Python (Basic) Skill, HackerRank (April 2024)
+- Certified Python Essential Skill, 
+-Full Stack Application Development with Cloud Computing 2023-24.
+
 
 ACHIEVEMENTS
 -----------
-- Consistent Top Performer in BCA (CGPA: 9.07)
-  - Secured First Position (Semester 1: CGPA 9.69)
-- National IT Exhibition Winner
-  - 1st Place - Technocrats Elite 5.0 (2023)
-  - Consolation Prize - Technocrats Elite 6.0 (2024)
-- Active Participation: Appreciation Letter (Swecha - ChandamamaKathalu Hackathon - 2023)
-- Top Innovator: "Top 10 Ideas & Most Promising Idea Recognition" (IBC media Ideathon - 2022)
-- Blockchain Enthusiast: Awarded 500 Phala Tokens (₹14K) for Smart Contract Challenge (2022)
+- Consistent Top Performer in BCA (CGPA: 8.5)
+  - Secured Top Position (Semester 1: CGPA 9.15)
+  - Secured First Position (Semester 5: CGPA 8.15)
 
 ## PERSONAL INFORMATION
-- Date of Birth: 08/11/2004
-- Languages Known: Marwadi, Hindi, English
+- Date of Birth: 26/03/2004
+- Languages Known: Urdu, Hindi, English
 - Address: Hyderabad
+
+## HOBBIES 
+- Cricket 
+- Reading Novel
+- Cooking 
 
 Declaration
 ----------
 I hereby declare that the information furnished above is true to the best of my knowledge.
 
-Date: 09/02/2025 |                                                   Puneet khatri |
+Date: 01/03/2025 |                                                   Syed Amaan Mehmoodi|
 Place: Hyderabad                                                 
