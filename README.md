@@ -2,7 +2,7 @@
 
 ## PERSONAL DETAILS
 Name: Syed Amaan Mehmoodi  
-Email: [syedamaanmehmoodi26@gmail.com](mailto: syedamaanmehmoodi26@gmail.com)  
+Email: [syedamaanmehmoodi26@gmail.com](mailto:syedamaanmehmoodi26@gmail.com)  
 Phone: [+918074841129](tel:+918074841129)  
 Location: Hyderabad, Telangana  
 [LinkedIn](https://www.linkedin.com/in/syed-amaan-mehmoodi-690683271) | [GitHub](https://github.com/amaan4n/)  
