@@ -43,7 +43,7 @@ Aspiring Python Full Stack Developer with foundational knowledge in Python progr
 CERTIFICATES
 -----------
 - Certified Python Essential Skill, 
--Full Stack Application Development with Cloud Computing 2023-24.
+- Full Stack Application Development with Cloud Computing 2023-24.
 
 
 ACHIEVEMENTS
