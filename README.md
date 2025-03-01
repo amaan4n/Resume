@@ -9,7 +9,7 @@ Location: Hyderabad, Telangana
 
 ## CAREER OBJECTIVE
 
-Aspiring Python Full Stack Developer with foundational knowledge in Python programming and SQL, currently expanding expertise in web development technologies. Seeking opportunities to apply and grow technical skills in a professional environment.
+Aspiring Full Stack Developer with foundational knowledge in Python programming, currently expanding expertise in web development technologies. Seeking opportunities to apply and grow technical skills in a professional environment.
 
 ## COURSE/QUALIFICATION
 | Qualification | Board/University | Year | Percentage/CGPA |
