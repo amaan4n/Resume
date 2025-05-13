@@ -1,4 +1,4 @@
-#  FULL STACK DEVELOPER
+#  FULL STACK DEVELOPER 
 
 ## PERSONAL DETAILS
 Name: Syed Amaan Mehmoodi  
